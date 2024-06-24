@@ -19,5 +19,5 @@ samples, guidance on mobile development, and a full API reference.
 ![Screenshot_1719232212](https://github.com/ayushkhanal1/chat-app/assets/122606866/1b6ed37e-c93a-46cf-8eee-d95ae029f9a0)
 ![Screenshot_1719232216](https://github.com/ayushkhanal1/chat-app/assets/122606866/99051324-8386-41f1-b5aa-b46af5d05318)
 
-![Screenshot_1719232266](https://github.com/ayushkhanal1/chat-app/assets/122606866/59eff0d2-844a-423e-9564-28699bbc3c92)70-6520bfdc70fd)
+![Screenshot_1719232266](https://github.com/ayushkhanal1/chat-app/assets/122606866/59eff0d2-844a-423e-9564-28699bbc3c92)
 ![Screenshot_1719232283](https://github.com/ayushkhanal1/chat-app/assets/122606866/babaee11-b0f2-412e-a7c4-5f8b2da401d4)
